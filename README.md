@@ -1,4 +1,4 @@
-# statistics-function-Ubuntu
+# Statistics-Function-Ubuntu
 Name: Abdel Halim Mansour
 
 Project Detalis:
